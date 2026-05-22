@@ -30,7 +30,7 @@ JSON output for easy post-processing.
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/subenum.git
+git clone https://github.com/mkay489/subenum.git
 cd subenum
 pip install -r requirements.txt
 ```
